@@ -1,1 +1,0 @@
-"# Gant_Chart"  initgit add README.mdgit commit -m "first commit"git branch -M maingit remote add origin https://github.com/omiros14052003/Gant_Chart.gitgit push -u origin main
